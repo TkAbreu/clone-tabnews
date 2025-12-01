@@ -1,2 +1,2 @@
-# colne-tabnews
+# clone-tabnews
 Exercitando programação
