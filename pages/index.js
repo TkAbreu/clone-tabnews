@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Nega: Vocês são tudo pra mim e tudo que eu faço é pra dar o melhor para vocês. Amo vocês mais que tudo na minha vida!</h1>
+    return <h1>Tô fazendo café!</h1>
 }
 
 export default Home;
